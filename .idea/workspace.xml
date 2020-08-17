@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="383cee1f-2ffd-452a-9741-b97b880ca160" name="Default Changelist" comment="" />
+    <list default="true" id="383cee1f-2ffd-452a-9741-b97b880ca160" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maximum Bitwise Product/maximumbitwiseproduct.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Maximum Bitwise Product/maximumbitwiseproduct.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597654815117</updated>
-      <workItem from="1597654824690" duration="318000" />
+      <workItem from="1597654824690" duration="2138000" />
     </task>
     <servers />
   </component>
