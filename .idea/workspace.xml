@@ -11,9 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="383cee1f-2ffd-452a-9741-b97b880ca160" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum Bitwise Product/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum Bitwise Product/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum Bitwise Product/maximumbitwiseproduct.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Toolbox/Week 1 (Programming Challenges)/Maximum Bitwise Product/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Toolbox/Week 1 (Programming Challenges)/Maximum Bitwise Product/a.out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +36,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +44,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597654815117</updated>
-      <workItem from="1597654824690" duration="3087000" />
+      <workItem from="1597654824690" duration="4842000" />
+      <workItem from="1597671084651" duration="320000" />
+      <workItem from="1597815280936" duration="599000" />
+      <workItem from="1598671337833" duration="21000" />
     </task>
     <servers />
   </component>
